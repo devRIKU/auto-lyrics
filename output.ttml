@@ -1,0 +1,224 @@
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml">
+  <body>
+    <div>
+      <p begin="00:00:16.480" end="00:00:18.060">
+        <span begin="00:00:16.480" end="00:00:16.820">Sun, </span>
+        <span begin="00:00:16.820" end="00:00:17.150">sun </span>
+        <span begin="00:00:17.150" end="00:00:17.370">re </span>
+        <span begin="00:00:17.370" end="00:00:18.060">piya </span>
+      </p>
+      <p begin="00:00:18.420" end="00:00:20.590">
+        <span begin="00:00:18.420" end="00:00:18.780">Ghum </span>
+        <span begin="00:00:18.780" end="00:00:19.050">hai </span>
+        <span begin="00:00:19.050" end="00:00:19.570">kahan, </span>
+        <span begin="00:00:19.860" end="00:00:20.250">kahan </span>
+        <span begin="00:00:20.250" end="00:00:20.590">tu? </span>
+      </p>
+      <p begin="00:00:23.230" end="00:00:24.360">
+        <span begin="00:00:23.230" end="00:00:23.820">Khaarijh </span>
+        <span begin="00:00:23.820" end="00:00:24.030">ye </span>
+        <span begin="00:00:24.030" end="00:00:24.360">dil </span>
+      </p>
+      <p begin="00:00:25.100" end="00:00:26.850">
+        <span begin="00:00:25.100" end="00:00:25.430">Tune </span>
+        <span begin="00:00:25.430" end="00:00:25.860">kiya, </span>
+        <span begin="00:00:26.150" end="00:00:26.500">kiya </span>
+        <span begin="00:00:26.500" end="00:00:26.850">kyu? </span>
+      </p>
+      <p begin="00:00:29.410" end="00:00:31.570">
+        <span begin="00:00:29.410" end="00:00:29.800">Khabar </span>
+        <span begin="00:00:29.800" end="00:00:30.150">nahi </span>
+        <span begin="00:00:30.150" end="00:00:30.460">teri </span>
+        <span begin="00:00:30.460" end="00:00:30.640">na </span>
+        <span begin="00:00:30.880" end="00:00:31.570">aasraa </span>
+      </p>
+      <p begin="00:00:35.810" end="00:00:38.250">
+        <span begin="00:00:35.810" end="00:00:36.270">Guroor </span>
+        <span begin="00:00:36.270" end="00:00:36.460">hai </span>
+        <span begin="00:00:36.460" end="00:00:36.850">tera </span>
+        <span begin="00:00:37.040" end="00:00:37.190">ya </span>
+        <span begin="00:00:37.190" end="00:00:37.380">hai </span>
+        <span begin="00:00:37.380" end="00:00:37.840">khataa </span>
+        <span begin="00:00:37.840" end="00:00:38.250">meri </span>
+      </p>
+      <p begin="00:00:39.950" end="00:00:41.130">
+        <span begin="00:00:39.950" end="00:00:40.280">Mujhe </span>
+        <span begin="00:00:40.280" end="00:00:40.540">bata </span>
+        <span begin="00:00:40.540" end="00:00:40.710">de </span>
+        <span begin="00:00:40.710" end="00:00:41.130">zara </span>
+      </p>
+      <p begin="00:00:42.920" end="00:00:44.750">
+        <span begin="00:00:42.920" end="00:00:43.190">Mere </span>
+        <span begin="00:00:43.190" end="00:00:43.490">falak </span>
+        <span begin="00:00:43.490" end="00:00:43.640">ke </span>
+        <span begin="00:00:43.640" end="00:00:43.990">noor </span>
+        <span begin="00:00:43.990" end="00:00:44.520">nazaare </span>
+        <span begin="00:00:44.520" end="00:00:44.750">bhi </span>
+      </p>
+      <p begin="00:00:45.330" end="00:00:47.410">
+        <span begin="00:00:45.330" end="00:00:45.620">Tere </span>
+        <span begin="00:00:45.620" end="00:00:46.060">kadmon </span>
+        <span begin="00:00:46.060" end="00:00:46.160">ke </span>
+        <span begin="00:00:46.160" end="00:00:46.540">dhool </span>
+        <span begin="00:00:46.540" end="00:00:46.720">se </span>
+        <span begin="00:00:46.720" end="00:00:47.050">parey </span>
+        <span begin="00:00:47.050" end="00:00:47.410">nahi </span>
+      </p>
+      <p begin="00:00:49.200" end="00:00:51.570">
+        <span begin="00:00:49.200" end="00:00:49.620">Mohlat </span>
+        <span begin="00:00:49.620" end="00:00:49.820">iss </span>
+        <span begin="00:00:49.820" end="00:00:50.150">ishq </span>
+        <span begin="00:00:50.150" end="00:00:50.280">ka </span>
+        <span begin="00:00:50.280" end="00:00:50.530">kar </span>
+        <span begin="00:00:50.530" end="00:00:50.700">de </span>
+        <span begin="00:00:50.700" end="00:00:51.570">fanaa </span>
+      </p>
+      <p begin="00:00:53.920" end="00:00:55.120">
+        <span begin="00:00:53.920" end="00:00:54.210">Sun </span>
+        <span begin="00:00:54.210" end="00:00:55.120">saawariya </span>
+      </p>
+      <p begin="00:00:55.720" end="00:00:57.480">
+        <span begin="00:00:55.720" end="00:00:56.020">Sun </span>
+        <span begin="00:00:56.020" end="00:00:56.660">saawariya </span>
+        <span begin="00:00:56.880" end="00:00:57.190">kahan </span>
+        <span begin="00:00:57.190" end="00:00:57.480">tu? </span>
+      </p>
+      <p begin="00:00:58.740" end="00:01:00.730">
+        <span begin="00:00:58.740" end="00:00:59.040">Teri </span>
+        <span begin="00:00:59.040" end="00:00:59.390">reet </span>
+        <span begin="00:00:59.390" end="00:00:59.570">main </span>
+        <span begin="00:00:59.570" end="00:00:59.980">samajh </span>
+        <span begin="00:00:59.980" end="00:01:00.180">na </span>
+        <span begin="00:01:00.180" end="00:01:00.730">paau </span>
+      </p>
+      <p begin="00:01:01.890" end="00:01:03.620">
+        <span begin="00:01:01.890" end="00:01:02.160">Teri </span>
+        <span begin="00:01:02.160" end="00:01:02.490">preet </span>
+        <span begin="00:01:02.490" end="00:01:02.620">ka </span>
+        <span begin="00:01:02.620" end="00:01:03.100">charkha </span>
+        <span begin="00:01:03.100" end="00:01:03.350">liye </span>
+        <span begin="00:01:03.350" end="00:01:03.620">bas </span>
+      </p>
+      <p begin="00:01:04.290" end="00:01:06.590">
+        <span begin="00:01:04.290" end="00:01:04.680">Ghoom </span>
+        <span begin="00:01:04.830" end="00:01:05.180">ghoom </span>
+        <span begin="00:01:05.180" end="00:01:05.800">ghoomta </span>
+        <span begin="00:01:05.800" end="00:01:06.010">hi </span>
+        <span begin="00:01:06.010" end="00:01:06.590">rahu </span>
+      </p>
+      <p begin="00:01:34.210" end="00:01:36.810">
+        <span begin="00:01:34.210" end="00:01:34.800">Taare, </span>
+        <span begin="00:01:35.330" end="00:01:35.860">sitaare </span>
+        <span begin="00:01:36.190" end="00:01:36.810">saare </span>
+      </p>
+      <p begin="00:01:40.090" end="00:01:41.520">
+        <span begin="00:01:40.090" end="00:01:40.540">Maange </span>
+        <span begin="00:01:40.540" end="00:01:40.670">hai </span>
+        <span begin="00:01:40.670" end="00:01:41.030">tera </span>
+        <span begin="00:01:41.030" end="00:01:41.520">pataa </span>
+      </p>
+      <p begin="00:01:46.290" end="00:01:49.030">
+        <span begin="00:01:46.290" end="00:01:46.490">Aur </span>
+        <span begin="00:01:46.490" end="00:01:47.160">aadhe, </span>
+        <span begin="00:01:47.660" end="00:01:48.300">adhoore </span>
+        <span begin="00:01:48.450" end="00:01:49.030">vaade </span>
+      </p>
+      <p begin="00:01:51.980" end="00:01:53.760">
+        <span begin="00:01:51.980" end="00:01:52.280">Leke </span>
+        <span begin="00:01:52.280" end="00:01:52.550">chal </span>
+        <span begin="00:01:52.550" end="00:01:52.920">diye </span>
+        <span begin="00:01:52.920" end="00:01:53.070">ho </span>
+        <span begin="00:01:53.300" end="00:01:53.760">kahan? </span>
+      </p>
+      <p begin="00:01:59.600" end="00:02:01.350">
+        <span begin="00:01:59.600" end="00:01:59.840">Mere </span>
+        <span begin="00:01:59.840" end="00:02:00.120">falak </span>
+        <span begin="00:02:00.120" end="00:02:00.270">ke </span>
+        <span begin="00:02:00.270" end="02:00:590">noor </span>
+        <span begin="00:02:00.590" end="00:02:01.120">nazaare </span>
+        <span begin="00:02:01.120" end="00:02:01.350">bhi </span>
+      </p>
+      <p begin="00:02:01.950" end="00:02:04.030">
+        <span begin="00:02:01.950" end="00:02:02.210">Tere </span>
+        <span begin="00:02:02.210" end="00:02:02.660">kadmon </span>
+        <span begin="00:02:02.660" end="00:02:02.760">ke </span>
+        <span begin="00:02:02.760" end="00:02:03.110">dhool </span>
+        <span begin="00:02:03.110" end="00:02:03.320">se </span>
+        <span begin="00:02:03.320" end="00:02:03.620">parey </span>
+        <span begin="00:02:03.620" end="00:02:04.030">nahi </span>
+      </p>
+      <p begin="00:02:05.740" end="00:02:08.180">
+        <span begin="00:02:05.740" end="00:02:06.190">Mohlat </span>
+        <span begin="00:02:06.190" end="00:02:06.380">iss </span>
+        <span begin="00:02:06.380" end="00:02:06.670">ishq </span>
+        <span begin="00:02:06.670" end="00:02:06.820">ka </span>
+        <span begin="00:02:06.820" end="00:02:07.080">kar </span>
+        <span begin="00:02:07.080" end="00:02:07.240">de </span>
+        <span begin="00:02:07.240" end="00:02:08.180">fanaa </span>
+      </p>
+      <p begin="00:02:11.900" end="00:02:13.590">
+        <span begin="00:02:11.900" end="00:02:12.160">Sun </span>
+        <span begin="00:02:12.160" end="00:02:12.800">saawariya </span>
+        <span begin="00:02:12.980" end="00:02:13.270">kahan </span>
+        <span begin="00:02:13.270" end="00:02:13.590">tu? </span>
+      </p>
+      <p begin="00:02:14.770" end="00:02:16.710">
+        <span begin="00:02:14.770" end="00:02:15.030">Teri </span>
+        <span begin="00:02:15.030" end="00:02:15.350">reet </span>
+        <span begin="00:02:15.350" end="00:02:15.520">main </span>
+        <span begin="00:02:15.520" end="00:02:15.930">samajh </span>
+        <span begin="00:02:15.930" end="00:02:16.080">na </span>
+        <span begin="00:02:16.080" end="00:02:16.710">paau </span>
+      </p>
+      <p begin="00:02:17.760" end="00:02:19.460">
+        <span begin="00:02:17.760" end="00:02:18.000">Teri </span>
+        <span begin="00:02:18.000" end="00:02:18.310">preet </span>
+        <span begin="00:02:18.310" end="00:02:18.440">ka </span>
+        <span begin="00:02:18.440" end="00:02:18.910">charkha </span>
+        <span begin="00:02:18.910" end="00:02:19.160">liye </span>
+        <span begin="00:02:19.160" end="00:02:19.460">bas </span>
+      </p>
+      <p begin="00:02:20.080" end="00:02:21.680">
+        <span begin="00:02:20.080" end="00:02:20.480">Ghoom </span>
+        <span begin="00:02:20.650" end="00:02:21.050">ghoom </span>
+        <span begin="00:02:21.230" end="00:02:21.680">ghoom </span>
+      </p>
+      <p begin="00:02:23.700" end="00:02:25.040">
+        <span begin="00:02:23.700" end="00:02:24.060">Sun </span>
+        <span begin="00:02:24.060" end="00:02:25.040">saawariya </span>
+      </p>
+      <p begin="00:02:25.680" end="00:02:27.490">
+        <span begin="00:02:25.680" end="00:02:26.010">Sun </span>
+        <span begin="00:02:26.010" end="00:02:26.660">saawariya </span>
+        <span begin="00:02:26.900" end="00:02:27.200">kahan </span>
+        <span begin="00:02:27.200" end="00:02:27.490">tu? </span>
+      </p>
+      <p begin="00:02:28.790" end="00:02:30.730">
+        <span begin="00:02:28.790" end="00:02:29.060">Teri </span>
+        <span begin="00:02:29.060" end="00:02:29.410">reet </span>
+        <span begin="00:02:29.410" end="00:02:29.580">main </span>
+        <span begin="00:02:29.580" end="00:02:29.990">samajh </span>
+        <span begin="00:02:29.990" end="00:02:30.170">na </span>
+        <span begin="00:02:30.170" end="00:02:30.730">paau </span>
+      </p>
+      <p begin="00:02:31.900" end="00:02:33.640">
+        <span begin="00:02:31.900" end="00:02:32.170">Teri </span>
+        <span begin="00:02:32.170" end="00:02:32.500">preet </span>
+        <span begin="00:02:32.500" end="00:02:32.650">ka </span>
+        <span begin="00:02:32.650" end="00:02:33.120">charkha </span>
+        <span begin="00:02:33.120" end="00:02:33.390">liye </span>
+        <span begin="00:02:33.390" end="00:02:33.640">bas </span>
+      </p>
+      <p begin="00:02:34.330" end="00:02:36.700">
+        <span begin="00:02:34.330" end="00:02:34.700">Ghoom </span>
+        <span begin="00:02:34.860" end="00:02:35.210">ghoom </span>
+        <span begin="00:02:35.210" end="00:02:35.810">ghoomta </span>
+        <span begin="00:02:35.810" end="00:02:36.010">hi </span>
+        <span begin="00:02:36.010" end="00:02:36.700">rahu </span>
+      </p>
+    </div>
+  </body>
+</tt>
+```
