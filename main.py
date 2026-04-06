@@ -66,15 +66,25 @@ Instructions:
 3. You MUST format the final output as a valid TTML document following the exact structure below.
 4. Each line needs a `<p>` tag, and every word inside the line needs its own `<span>` tag. Keep a trailing space within the `<span>` to separate words.
 5. If there is too much instrumental music add a music tag with the timestamp [use motive="music"].
+6. Kindly remove any identation in the final output
 
 Reference TTML Structure:
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml">
-  <body>
-    <div>
-      <p begin="00:00:10.000" end="00:00:13.500">
-        <span begin="00:00:10.000" end="00:00:10.500">Example </span>
-        <span begin="00:00:10.500" end="00:00:11.200">word </span>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal">
+  <head>
+    <metadata>
+      <ttm:agent type="person" xml:id="v1"/>
+      <itunesMetadata>
+        <songwriters>
+          <songwriter>Name</songwriter>
+        </songwriters>
+      </itunesMetadata>
+    </metadata>
+  </head>
+  <body dur="0:00.000">
+    <div begin="0.000" end="0.000" itunes:songPart="Verse" ttm:agent="v1">
+      <p begin="0.000" end="0.000">
+        <span begin="0.000" end="0.000">Word</span>
+        <span begin="0.000" end="0.000">NextWord</span>
       </p>
     </div>
   </body>
